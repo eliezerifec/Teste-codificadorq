@@ -1,4 +1,4 @@
-﻿"""
+"""
 Codificador IFec — versao Streamlit com novo sistema visual
 (glass, off-white quente, navy modernizado + amber, Geist).
 
